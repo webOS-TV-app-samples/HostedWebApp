@@ -1,11 +1,14 @@
 {
-  "id": "com.sample.hosted",
-  "version": "2.0.0",
-  "vendor": "LG Developer",
+  "id": "com.HQPorner.app",
+  "version": "1.0.0",
+  "vendor": "My Company",
   "type": "web",
   "main": "index.html",
-  "title": "Hosted App",
+  "title": "HQPorner",
   "icon": "icon.png",
   "largeIcon": "largeIcon.png",
-  "uiRevision": 2
+  "resolution": "1920x1080",
+  "iconColor": "black",
+  "splashBackground": "Start.png",
+  "bgImage": "Start.png"
 }
