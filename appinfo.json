@@ -1,0 +1,11 @@
+{
+  "id": "com.sample.hosted",
+  "version": "2.0.0",
+  "vendor": "LG Developer",
+  "type": "web",
+  "main": "index.html",
+  "title": "Hosted App",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "uiRevision": 2
+}
